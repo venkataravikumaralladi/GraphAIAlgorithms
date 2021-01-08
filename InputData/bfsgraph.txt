@@ -1,0 +1,9 @@
+# First line consists of number of nodes.
+# following line <source vertex> <to vertex> <weight> <to vertex> <weight>
+6
+1 2 1 4 1 5 1 6 1
+2 1 1 3 1
+3 2 1 4 1
+4 1 1 3 1
+5 1 1 6 1
+6 1 1 5 1

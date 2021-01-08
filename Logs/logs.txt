@@ -1,0 +1,2 @@
+INFO:2020:12:30:15:24:58:141130:Number of vertices:  6
+

@@ -1,0 +1,11 @@
+﻿  BFS.cpp
+  DFS.cpp
+  DisjointSet.cpp
+  Graph.cpp
+  KnapSnack.cpp
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 923 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GraphExplorers.vcxproj -> C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorers\Release\GraphExplorers.exe

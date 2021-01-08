@@ -1,0 +1,21 @@
+[2021-01-06 15:22:51] [info] Start Program:
+Path:"C:\\TechnicalVenkata\\C++Projects\\GraphAlgorithms\\GraphExplorers\\Source\\GraphExplorers\\Release\\GraphExplorersUT.exe"
+Arguments:
+Working directory: "C:\\TechnicalVenkata\\C++Projects\\GraphAlgorithms\\GraphExplorers\\Source\\GraphExplorersUT\\GraphExplorersUT\\"
+Modules: Selected: C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorers\Release\GraphExplorers.exe C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorers\Release\GraphExplorersUT.exe Excluded: 
+Sources: Selected: C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorers C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorersUT\GraphExplorersUT Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\INVERAV\AppData\Local\Temp\a3qvntc0.2ls 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-01-06 15:22:51] [info] Module: C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorers\Release\GraphExplorersUT.exe is selected because it matches selected pattern: C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorers\Release\GraphExplorersUT.exe
+[2021-01-06 15:22:52] [info] ----------------------------------------------------
+[2021-01-06 15:22:52] [info] Coverage binary generated in file: C:\Users\INVERAV\AppData\Local\Temp\a3qvntc0.2ls
+[2021-01-06 15:22:52] [info] ----------------------------------------------------

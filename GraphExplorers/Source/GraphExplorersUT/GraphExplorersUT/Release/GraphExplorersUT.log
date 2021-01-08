@@ -1,0 +1,11 @@
+﻿  BFSTest.cpp
+  DFSTest.cpp
+  GraphTest.cpp
+  link.cpp
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+gtest.lib(gtest-all.obj) : warning LNK4099: PDB 'gtest.pdb' was not found with 'gtest.lib(gtest-all.obj)' or at 'C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorers\Release\gtest.pdb'; linking object as if no debug info
+  GraphExplorersUT.vcxproj -> C:\TechnicalVenkata\C++Projects\GraphAlgorithms\GraphExplorers\Source\GraphExplorers\Release\GraphExplorersUT.exe
